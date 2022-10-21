@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Pokecard {
+  border : 2px solid rgb(200, 196, 196);
+  border-radius : 10px;
+  width : 150px;
+  background-color: rgb(200, 196, 196);
+  margin : 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+.Pokedex {
+  text-align: center;
+}
